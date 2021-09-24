@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Ecommerce Website](https://github.com/ez-sherlock/Ecommerce-Store-Website)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **GraphQL with MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://burhan-source.github.io/webv3/Projects/projects.html](https://burhan-source.github.io/webv3/Projects/projects.html)
 
-- 💬 Ask me about **React, JS, CSS Firebase**
+- 💬 Ask me about **ReactJS, JavaScript, Python and yeah the mighty C & C++**
 
 - 📫 How to reach me **mirzaburhan0007@gmail.com**
 
