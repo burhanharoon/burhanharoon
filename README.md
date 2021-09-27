@@ -32,9 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ez-sherlock&show_icons=true&theme=radical&locale=en&layout=compact" alt="ez-sherlock" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ez-sherlock)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ez-sherlock&show_icons=true&theme=radical&locale=en" alt="ez-sherlock" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ez-sherlock&theme=dark" alt="ez-sherlock" /></p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ez-sherlock&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
