@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Website](https://github.com/ez-sherlock/Ecommerce-Store-Website)
 
-- 🌱 I’m currently learning **GraphQL with MERN Stack and User Auth using JWT**
+- 🌱 I’m currently learning **GraphQL with MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://burhan-source.github.io/webv3/Projects/projects.html](https://burhan-source.github.io/webv3/Projects/projects.html)
 
