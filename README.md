@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamburhan0007" target="blank"><img src="https://img.shields.io/twitter/follow/iamburhan0007?logo=twitter&style=for-the-badge" alt="iamburhan0007" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce Website](https://github.com/ez-sherlock/Ecommerce-Store-Website)
+- 🔭 I’m currently working on [Ecommerce Website](https://github.com/ez-sherlock/Ecommerce-Store-Website) and a Crypto Advisory App.
 
 - 🌱 I’m currently learning **GraphQL with MERN Stack**
 
