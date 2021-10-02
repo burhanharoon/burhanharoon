@@ -24,7 +24,7 @@
 <a href="https://stackoverflow.com/users/15991886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15991886" height="30" width="40" /></a>
 <a href="https://fb.com/kya.bne.ga.burhan.tera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kya.bne.ga.burhan.tera/" height="30" width="40" /></a>
 <a href="https://instagram.com/kya.bne.ga.burhan.tera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kya.bne.ga.burhan.tera" height="30" width="40" /></a>
-<a href="ez-sherlock.github.io/portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ez-sherlock.github.io/portfolio" height="30" width="40" /></a>
+<a href="https://ez-sherlock.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ez-sherlock.github.io/portfolio/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
