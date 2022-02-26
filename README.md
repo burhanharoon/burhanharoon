@@ -37,3 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ez-sherlock&theme=dark" alt="ez-sherlock" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ez-sherlock&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://hit.yhype.me/github/profile?user_id=89704304)
