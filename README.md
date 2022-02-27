@@ -5,6 +5,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why should you use Tailwind CSS with React/Next JS?](https://dev.to/burhandev/why-should-you-use-tailwind-css-with-reactnext-js-3j3h)
+- [How to remove this &quot;greater than&quot; symbol from the body tag? [closed]](https://stackoverflow.com/questions/71186313/how-to-remove-this-greater-than-symbol-from-the-body-tag)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ez-sherlock&row=2&column=7&margin-w=10" alt="ez-sherlock" /></a> </p>
