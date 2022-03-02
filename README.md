@@ -5,6 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Burhan for Reactjs &lpar;Create React App, CRA&rpar; npm run build failed and throw Error: ... envelope routines::unsupported](https://stackoverflow.com/questions/71319502/reactjs-create-react-app-cra-npm-run-build-failed-and-throw-error-envelo/71320080#71320080)
 - [Answer by Burhan for how can i update select option from state in react.js](https://stackoverflow.com/questions/71313689/how-can-i-update-select-option-from-state-in-react-js/71313897#71313897)
 - [How to make my react-dnd droppable component draggable too?](https://stackoverflow.com/questions/71313625/how-to-make-my-react-dnd-droppable-component-draggable-too)
 - [Why should you use Tailwind CSS with React/Next JS?](https://dev.to/burhandev/why-should-you-use-tailwind-css-with-reactnext-js-3j3h)
