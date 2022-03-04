@@ -15,13 +15,13 @@
 
 <p align="center"> <a href="https://twitter.com/iamburhan0007" target="blank"><img src="https://img.shields.io/twitter/follow/iamburhan0007?logo=twitter&style=for-the-badge" alt="iamburhan0007" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce Website](https://github.com/ez-sherlock/Ecommerce-Store-Website).
+- 🔭 I’m currently working on Freelancing Projects :)
 
-- 🌱 I’m currently learning **MERN Stack*
+- 🌱 I’m currently learning **Java, Node JS*
 
-- 👨‍💻 All of my projects are available at [https://burhan-source.github.io/webv3/Projects/projects.html](https://burhan-source.github.io/webv3/Projects/projects.html)
+- 👨‍💻 All of my projects are available at [https://burhan-source.github.io/webv3/Projects/projects.html](https://burhan-source.github.io/webv3/Projects/projects.html) (Outdated, almost a year old, need to make a new portfolio)
 
-- 💬 Ask me about **NextJS, ReactJS, JavaScript, Python and yeah the mighty C & C++**
+- 💬 Ask me about **NextJS, ReactJS, NodeJS, ExpressJS, JavaScript, TypeScript, Python and yeah the mighty C & C++**
 
 - 📫 How to reach me **mirzaburhan0007@gmail.com**
 
