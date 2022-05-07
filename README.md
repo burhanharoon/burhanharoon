@@ -5,11 +5,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Burhan for how to increase a input value via button click and also update this value in server site](https://stackoverflow.com/questions/72155250/how-to-increase-a-input-value-via-button-click-and-also-update-this-value-in-ser/72156016#72156016)
 - [Answer by Burhan for I don’t understand how the code is getting 56, 49](https://stackoverflow.com/questions/71359539/i-don-t-understand-how-the-code-is-getting-56-49/71359626#71359626)
 - [Answer by Burhan for Reactjs &lpar;Create React App, CRA&rpar; npm run build failed and throw Error: ... envelope routines::unsupported](https://stackoverflow.com/questions/71319502/reactjs-create-react-app-cra-npm-run-build-failed-and-throw-error-envelo/71320080#71320080)
 - [Answer by Burhan for How can i update select option from state in react.js](https://stackoverflow.com/questions/71313689/how-can-i-update-select-option-from-state-in-react-js/71313897#71313897)
 - [How to make my react-dnd droppable component draggable too?](https://stackoverflow.com/questions/71313625/how-to-make-my-react-dnd-droppable-component-draggable-too)
-- [Why should you use Tailwind CSS with React/Next JS?](https://dev.to/burhandev/why-should-you-use-tailwind-css-with-reactnext-js-3j3h)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ez-sherlock&row=2&column=7&margin-w=10" alt="ez-sherlock" /></a> </p>
