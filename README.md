@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://burhan-source.github.io/webv3/Projects/projects.html](https://burhan-source.github.io/webv3/Projects/projects.html) (Outdated, almost a year old, need to make a new portfolio)
 
-- 💬 Ask me about **NextJS, ReactJS, NodeJS, ExpressJS, JavaScript, TypeScript, Python and yeah the mighty C & C++**
+- 💬 Ask me about **NextJS, ReactJS, NodeJS, ExpressJS, JavaScript, Rest APIs TypeScript, Python and yeah the mighty C & C++**
 
 - 📫 How to reach me **mirzaburhan0007@gmail.com**
 
