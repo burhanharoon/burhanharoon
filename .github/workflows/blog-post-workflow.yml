@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https://dev.to/feed/burhandev, https://stackoverflow.com/feeds/user/15991886'
+          feed_list: 'https://dev.to/feed/burhanharoon, https://stackoverflow.com/feeds/user/15991886'
