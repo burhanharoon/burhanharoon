@@ -12,7 +12,7 @@
 - [Answer by Burhan for Reactjs &lpar;Create React App, CRA&rpar; npm run build failed and throw Error: ... envelope routines::unsupported](https://stackoverflow.com/questions/71319502/reactjs-create-react-app-cra-npm-run-build-failed-and-throw-error-envelo/71320080#71320080)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ez-sherlock&row=2&column=7&margin-w=10" alt="ez-sherlock" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burhanharoon&row=2&column=7&margin-w=10" alt="ez-sherlock" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/iamburhan0007" target="blank"><img src="https://img.shields.io/twitter/follow/iamburhan0007?logo=twitter&style=for-the-badge" alt="iamburhan0007" /></a> </p>
 
@@ -34,7 +34,7 @@
 <a href="https://fb.com/kya.bne.ga.burhan.tera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kya.bne.ga.burhan.tera/" height="30" width="40" /></a>
 <a href="https://instagram.com/kya.bne.ga.burhan.tera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kya.bne.ga.burhan.tera" height="30" width="40" /></a>
 <a href="https://ez-sherlock.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ez-sherlock.github.io/portfolio/" height="30" width="40" /></a>
-<a href="https://dev.to/burhandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="burhandev" height="30" width="40" /></a>
+<a href="https://dev.to/burhanharoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="burhandev" height="30" width="40" /></a>
 </p>
 
 
