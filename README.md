@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burhan</h1>
 <h3 align="center">A passionate MERN stack developer.</h3>
 
-<p align="center"> <img src="https://camo.githubusercontent.com/4288e0536b6267f6589faabf3a7fdc5e07ced35eb3c5ed4be60cbf32e711742e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d657a2d736865726c6f636b266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="ez-sherlock" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=burhanharoon&label=Profile%20views&color=0e75b6&style=flat" alt="burhanharoon" /> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
