@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burhan</h1>
 <h3 align="center">A passionate MERN stack developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ez-sherlock&label=Profile%20views&color=0e75b6&style=flat" alt="ez-sherlock" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=burhanharoon&label=Profile%20views&color=0e75b6&style=flat" alt="ez-sherlock" /> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
