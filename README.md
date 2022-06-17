@@ -16,7 +16,7 @@
 
 <p align="center"> <a href="https://twitter.com/iamburhan0007" target="blank"><img src="https://img.shields.io/twitter/follow/iamburhan0007?logo=twitter&style=for-the-badge" alt="iamburhan0007" /></a> </p>
 
-- 🔭 I’m currently working on Freelancing Projects :)
+- 🔭 I’m currently working as a Full Stack React & React Native engineer @ Megaverse
 
 - 🌱 I’m currently learning **NodeJS** and **ExpressJS**
 
