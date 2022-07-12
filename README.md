@@ -14,7 +14,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burhanharoon&row=2&column=7&margin-w=10" alt="ez-sherlock" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/burhanharoon_" target="blank"><img src="https://img.shields.io/twitter/follow/iamburhan0007?logo=twitter&style=for-the-badge" alt="iamburhan0007" /></a> </p>
+<p align="center"> <a href="https://twitter.com/burhanharoon_" target="blank"><img src="https://img.shields.io/twitter/follow/burhanharoon_?logo=twitter&style=for-the-badge" alt="burhanharoon_" /></a> </p>
 
 - 🔭 I’m currently working as a Full Stack React & React Native engineer @ Megaverse
 
