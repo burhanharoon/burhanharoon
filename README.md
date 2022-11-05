@@ -6,10 +6,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to generate /sitemap.xml route in Remix framework](https://dev.to/burhanharoon/how-to-generate-sitemapxml-route-in-remix-framework-25dc)
-- [How do I update my existing ant design uploaded image?](https://stackoverflow.com/questions/72632983/how-do-i-update-my-existing-ant-design-uploaded-image)
-- [Answer by Burhan for npm ERR! syscall spawn git](https://stackoverflow.com/questions/72163471/npm-err-syscall-spawn-git/72163804#72163804)
-- [Answer by Burhan for How can I redirect to previous page after login in react router?](https://stackoverflow.com/questions/72163183/how-can-i-redirect-to-previous-page-after-login-in-react-router/72163324#72163324)
-- [Answer by Burhan for how to increase a input value via button click and also update this value in server site](https://stackoverflow.com/questions/72155250/how-to-increase-a-input-value-via-button-click-and-also-update-this-value-in-ser/72156016#72156016)
+- [Why should you use Tailwind CSS with React/Next JS?](https://dev.to/burhanharoon/why-should-you-use-tailwind-css-with-reactnext-js-3j3h)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burhanharoon&row=2&column=7&margin-w=10" alt="ez-sherlock" /></a> </p>
