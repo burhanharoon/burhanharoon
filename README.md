@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burhan Haroon </h1>
-<h3 align="center">A passionate MERN stack developer.</h3>
+<h3 align="center">An Impassioned MERN Stack Developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burhanharoon&label=Profile%20views&color=0e75b6&style=flat" alt="burhanharoon" /> </p>
 
