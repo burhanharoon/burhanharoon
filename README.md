@@ -5,7 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [React not navigating to a dynamic url when the previous url have optional query params](https://stackoverflow.com/questions/76359864/react-not-navigating-to-a-dynamic-url-when-the-previous-url-have-optional-query)
+- [React not navigating to a dynamic url when the previous url have optional query params [closed]](https://stackoverflow.com/questions/76359864/react-not-navigating-to-a-dynamic-url-when-the-previous-url-have-optional-query)
 - [How to generate /sitemap.xml route in Remix framework](https://dev.to/burhanharoon/how-to-generate-sitemapxml-route-in-remix-framework-25dc)
 - [How do I update my existing ant design uploaded image?](https://stackoverflow.com/questions/72632983/how-do-i-update-my-existing-ant-design-uploaded-image)
 - [Answer by Burhan for npm ERR! syscall spawn git](https://stackoverflow.com/questions/72163471/npm-err-syscall-spawn-git/72163804#72163804)
