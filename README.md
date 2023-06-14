@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burhan Haroon </h1>
-<h3 align="center">An Impassioned MERN Stack Developer.</h3>
+<h3 align="center">An Impassioned Full-Stack Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burhanharoon&label=Profile%20views&color=0e75b6&style=flat" alt="burhanharoon" /> </p>
 
@@ -16,15 +16,15 @@
 
 <p align="center"> <a href="https://twitter.com/burhanharoon_" target="blank"><img src="https://img.shields.io/twitter/follow/burhanharoon_?logo=twitter&style=for-the-badge" alt="burhanharoon_" /></a> </p>
 
-- 🔭 I’m currently working as a Full Stack React & React Native engineer @ Megaverse
+- 🔭 I’m currently working as a **Software Engineer** @ **Devsinc**
 
-- 🌱 I’m currently learning **NodeJS** and **ExpressJS**
+- 🌱 I’m currently learning **Sequelize.JS**
 
 - 👨‍💻 All of my projects are available at [https://burhan-source.github.io/webv3/Projects/projects.html](https://burhan-source.github.io/webv3/Projects/projects.html) (Outdated, almost a year old, need to make a new portfolio)
 
-- 💬 Ask me about **NextJS, ReactJS, NodeJS, ExpressJS, JavaScript, Rest APIs TypeScript, Python and yeah the mighty C & C++**
+- 💬 Ask me about **NextJS, ReactJS, NodeJS, ExpressJS, JavaScript, Rest APIs TypeScript, Python and problem solving in general**
 
-- 📫 How to reach me **mirzaburhan0007@gmail.com**
+- 📫 How to reach me **burhanharoon@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
