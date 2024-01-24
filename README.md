@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer** @ **Devsinc**
 
-- 🌱 I’m currently learning **Sequelize.JS**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://burhan-source.github.io/webv3/Projects/projects.html](https://burhan-source.github.io/webv3/Projects/projects.html) (Outdated, almost a year old, need to make a new portfolio)
 
