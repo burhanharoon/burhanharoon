@@ -16,11 +16,11 @@
 
 <p align="center"> <a href="https://twitter.com/burhanharoon_" target="blank"><img src="https://img.shields.io/twitter/follow/burhanharoon_?logo=twitter&style=for-the-badge" alt="burhanharoon_" /></a> </p>
 
-- 🔭 I’m currently working as a **Software Engineer** @ **Devsinc**
+- 🔭 I’m currently working as a **Senior Fullstack Software Engineer**
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **AI + Cloud (MLOps / AI Infra)**
 
-- 👨‍💻 All of my projects are available at [https://burhan-source.github.io/webv3/Projects/projects.html](https://burhan-source.github.io/webv3/Projects/projects.html) (Outdated, almost a year old, need to make a new portfolio)
+- 👨‍💻 All of my projects are available at [https://burhan-source.github.io/webv3/Projects/projects.html](https://burhan-source.github.io/webv3/Projects/projects.html) (Outdated, 3 years old, need to make a new portfolio)
 
 - 💬 Ask me about **NextJS, ReactJS, NodeJS, ExpressJS, JavaScript, Rest APIs TypeScript, Python and problem solving in general**
 
