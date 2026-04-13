@@ -11,9 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Workflow That Cut Our Production Incidents by 75%](https://burhanharoon.com/blog/the-ai-workflow-that-cut-our-production-incidents-by-75)
 - [Deploying a Simple React.js Frontend with Docker Made Easy! 🚀](https://dev.to/burhanharoon/deploying-a-simple-reactjs-frontend-with-docker-made-easy-3c9g)
+- [Answer by Burhan for How to use Redux-Persist with Next.js App Router](https://stackoverflow.com/questions/77783551/how-to-use-redux-persist-with-next-js-app-router/77809186#77809186)
 - [How to generate /sitemap.xml route in Remix framework](https://dev.to/burhanharoon/how-to-generate-sitemapxml-route-in-remix-framework-25dc)
+- [How do I update my existing ant design uploaded image?](https://stackoverflow.com/questions/72632983/how-do-i-update-my-existing-ant-design-uploaded-image)
+- [Answer by Burhan for npm ERR! syscall spawn git](https://stackoverflow.com/questions/72163471/npm-err-syscall-spawn-git/72163804#72163804)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-sigma-one.vercel.app/?username=burhanharoon&row=2&column=7&margin-w=10" alt="burhanharoon" /></a> </p>
