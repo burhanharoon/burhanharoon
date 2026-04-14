@@ -9,6 +9,19 @@
   </a>
 </p>
 
+---
+
+### Open Source
+
+I contribute to [NestJS](https://github.com/nestjs/nest) (60k+ stars), focusing on correctness in core framework internals.
+
+| PR | Package | What |
+|---|---|---|
+| [#16762](https://github.com/nestjs/nest/pull/16762) | `@nestjs/microservices` | Fixed Kafka CRASH event listener using throwing getter instead of backing field — silent failure during consumer teardown |
+| [#16782](https://github.com/nestjs/nest/pull/16782) | `@nestjs/core` | Fixed falsy check treating SSE `id: 0` as absent, violating W3C SSE spec and corrupting client reconnection cursors |
+
+---
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Deploying a Simple React.js Frontend with Docker Made Easy! 🚀](https://dev.to/burhanharoon/deploying-a-simple-reactjs-frontend-with-docker-made-easy-3c9g)
