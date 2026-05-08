@@ -78,9 +78,9 @@ I contribute to [NestJS](https://github.com/nestjs/nest) (60k+ stars), focusing 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Simple React.js Frontend with Docker Made Easy! 🚀](https://dev.to/burhanharoon/deploying-a-simple-reactjs-frontend-with-docker-made-easy-3c9g)
 - [Answer by Burhan for How to use Redux-Persist with Next.js App Router](https://stackoverflow.com/questions/77783551/how-to-use-redux-persist-with-next-js-app-router/77809186#77809186)
-- [How to generate /sitemap.xml route in Remix framework](https://dev.to/burhanharoon/how-to-generate-sitemapxml-route-in-remix-framework-25dc)
 - [How do I update my existing ant design uploaded image?](https://stackoverflow.com/questions/72632983/how-do-i-update-my-existing-ant-design-uploaded-image)
 - [Answer by Burhan for npm ERR! syscall spawn git](https://stackoverflow.com/questions/72163471/npm-err-syscall-spawn-git/72163804#72163804)
+- [Answer by Burhan for How can I redirect to previous page after login in react router?](https://stackoverflow.com/questions/72163183/how-can-i-redirect-to-previous-page-after-login-in-react-router/72163324#72163324)
+- [Answer by Burhan for how to increase a input value via button click and also update this value in server site](https://stackoverflow.com/questions/72155250/how-to-increase-a-input-value-via-button-click-and-also-update-this-value-in-ser/72156016#72156016)
 <!-- BLOG-POST-LIST:END -->
